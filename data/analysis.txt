@@ -1,0 +1,53 @@
+📊 EMOTIONAL ANALYSIS OF PRESIDENT'S SPEECH
+==================================================
+Total sentences analyzed: 23
+- No emotion detected: 4 sentences
+- Single emotion: 2 sentences
+- Multiple emotions: 17 sentences
+
+🔹 Overall Emotion Frequency (excluding #joy):
+- #eagerness: 13
+- #calmness: 9
+- #sadness: 7
+- #pleasantness: 7
+- #disgust: 4
+- #fear: 3
+
+🔹 Sentiment Distribution:
+- positive: 12 (52.2%)
+- negative: 7 (30.4%)
+- neutral: 4 (17.4%)
+
+🔹 Emotional Flow Across Speech (dominant emotion per sentence):
+#eagerness → #calmness → #eagerness → #sadness → #calmness → #fear → #fear → #calmness → #fear → #calmness → #calmness → - → #calmness → - → #calmness → #calmness → #calmness → #eagerness → #eagerness → #eagerness → #sadness → - → -
+
+KEY INSIGHTS:
+- Dominant emotion: #eagerness
+- Positive to Negative ratio: 1.71:1
+- Emotional flow suggests how tone shifts across the speech.
+
+🔹 EMOTIONAL ANALYSIS PER PART:
+
+Part 1:
+- Dominant emotion: #eagerness
+- Average polarity: 0.321
+- Sentence count: 5
+- Emotional flow in part: #eagerness → #calmness → #eagerness → #sadness → #calmness
+
+Part 2:
+- Dominant emotion: #fear
+- Average polarity: -0.341
+- Sentence count: 3
+- Emotional flow in part: #fear → #fear → #calmness
+
+Part 3:
+- Dominant emotion: #calmness
+- Average polarity: 0.017
+- Sentence count: 6
+- Emotional flow in part: #fear → #calmness → #calmness → - → #calmness → -
+
+Part 4:
+- Dominant emotion: #eagerness
+- Average polarity: 0.202
+- Sentence count: 9
+- Emotional flow in part: #calmness → #calmness → #calmness → #eagerness → #eagerness → #eagerness → #sadness → - → -
